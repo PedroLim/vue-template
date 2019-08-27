@@ -1,0 +1,5 @@
+node_modules
+#client/dist/bundle
+.vscode
+.DS_Store
+.env
